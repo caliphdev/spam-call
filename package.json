@@ -1,0 +1,30 @@
+{
+  "name": "spam-call",
+  "version": "0.0.1",
+  "description": "Spam Call With Nodejs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "delay": "^5.0.0",
+    "figlet": "1.5.2",
+    "node-fetch": "2.6.5",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caliph91"
+  },
+  "keywords": [
+    "spamcall",
+    "spam-termux",
+    "spam-call"
+  ],
+  "author": "caliph91",
+  "license": "ISC"
+}
